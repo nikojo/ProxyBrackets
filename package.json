@@ -1,0 +1,19 @@
+{
+  "name": "proxybrackets",
+  "version": "1.0.0",
+  "description": "Proxy for Brackets web app",
+  "repository": {
+    "type": "git",
+    "url": "ProxyBrackets"
+  },
+  "license": "MIT",
+  "author": "Tom Fukushima",
+  "type": "commonjs",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
